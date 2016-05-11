@@ -1,4 +1,5 @@
-Planfix is a PostgresQL Extension to force specific indices..
+Planfix is a PostgresQL Extension to force specific indices
+===========================================================
 
 Planfix is an extension that allows the user to explicitly force the 
 use of a specific index in PostgresQL.
